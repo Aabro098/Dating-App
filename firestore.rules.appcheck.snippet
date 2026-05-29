@@ -1,0 +1,21 @@
+// ---------------------------------------------------------------------------
+// Optional Firestore Security Rules snippet — merge into your firestore.rules
+// ---------------------------------------------------------------------------
+// App Check enforcement in Firebase Console already blocks most abuse. Adding
+// `request.app != null` in rules adds a second check: only clients that sent
+// an App Check token can pass (typical mobile/web SDK + activate() in main.dart).
+//
+// Do NOT paste this as your whole rules file. Copy the helper and use it in
+// match blocks where you want to require App Check in addition to auth.
+//
+//   function signedInWithAppCheck() {
+//     return request.auth != null && request.app != null;
+//   }
+//
+// Example:
+//   match /Users/{userId} {
+//     allow read, write: if signedInWithAppCheck() && request.auth.uid == userId;
+//   }
+//
+// Docs: https://firebase.google.com/docs/app-check/firestore
+// ---------------------------------------------------------------------------

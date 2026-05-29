@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "877294522958",
+    "project_id": "vioraa",
+    "storage_bucket": "vioraa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877294522958:android:ed461b54684c72e37a291f",
+        "android_client_info": {
+          "package_name": "com.epochtechlabs.viora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877294522958-4evq1tvk488ts3ve4ejsifc0c5b15ore.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epochtechlabs.viora",
+            "certificate_hash": "0486654e44d222f3d2dd585d352927bf9e244c91"
+          }
+        },
+        {
+          "client_id": "877294522958-g6f0n20nm1ulmgsrflojkc79vbjc26g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epochtechlabs.viora",
+            "certificate_hash": "fa6a74da3a07f896687b94afd517ff8d6527053a"
+          }
+        },
+        {
+          "client_id": "877294522958-kmqb3qkj9kqp41qkte9acb14c6l1a7v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epochtechlabs.viora",
+            "certificate_hash": "b2bb885231bf17365362e8cf57560fba8e7f6f1b"
+          }
+        },
+        {
+          "client_id": "877294522958-nmie4p4so27hmlf828bn5acm6tfoldqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epochtechlabs.viora",
+            "certificate_hash": "c5cee34ed3d9bbc90c2bc81832d0ea9454b65f7d"
+          }
+        },
+        {
+          "client_id": "877294522958-cdq4j63un6h8muvk8vojui0dpb70596p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5napFZhA-lsQ0vyBU3s81EoaG6ehyDWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877294522958-cdq4j63un6h8muvk8vojui0dpb70596p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877294522958-2pjdc36p08ifj5urgbita6h0bo2adlsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meetisy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

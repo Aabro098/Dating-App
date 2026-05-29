@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>791123996200-9r8mcu37jkju66ecgvmhghrhb7rtq9ad.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.791123996200-9r8mcu37jkju66ecgvmhghrhb7rtq9ad</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>791123996200-3he1oahujicptdg8h94jngao8kvfsclf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByosLQwdUuw8AXFK9Be94B377wU4ZQqAI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>791123996200</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.meetisy</string>
+	<key>PROJECT_ID</key>
+	<string>meetisy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meetisy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:791123996200:ios:8c52d6bd38260f90924f1d</string>
+</dict>
+</plist>

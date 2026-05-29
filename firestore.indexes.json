@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Subscription_logs",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "appUserId", "order": "ASCENDING" },
+        { "fieldPath": "serverReceivedAt", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "gender", "order": "ASCENDING" },
+        { "fieldPath": "isDisabled", "order": "ASCENDING" },
+        { "fieldPath": "lastOnline", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "gender", "order": "ASCENDING" },
+        { "fieldPath": "maritalStatus", "order": "ASCENDING" },
+        { "fieldPath": "isDisabled", "order": "ASCENDING" },
+        { "fieldPath": "lastOnline", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
