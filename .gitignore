@@ -1,0 +1,40 @@
+# Flutter / Dart
+.dart_tool/
+.pub/
+.packages
+build/
+coverage/
+
+# Generated plugin state
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE / editor files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+android/keystore/keystore.properties
+*.jks
+*.keystore
+
+# Node dependencies
+functions/node_modules/
+
+# Optional generated reports / archives
+*.zip
